@@ -14,7 +14,7 @@ This repository currently contains a Kotlin/Java8 Tor Library supporting
 ## Usage
 This is essentially a Wrapper around the official Tor releases, pre-packaged for easiy use and convenient integration into Kotlin/Java Projects.
 As of you, simply add `tor.native` as dependency to your project (using JitPack):
-```XML
+```
     <repositories>
     <repository>
         <id>jitpack.io</id>
